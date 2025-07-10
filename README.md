@@ -2,4 +2,4 @@
 
 ## This project was made by anti-furries
 
-**This project is not yet completed**
+Very simple package manager with a centralized server
